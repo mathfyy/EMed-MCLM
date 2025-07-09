@@ -1,5 +1,6 @@
 # EMed-MCLM: A Medical Multi-label Class-incremental Learning Model Inspired by Evolutionary Algorithm
-![Uploading Figure2.png…]()
+![Figure2](https://github.com/user-attachments/assets/8d02e5f4-6460-4f8f-861e-1fb3bb717351)
+
 
 # Requirements
 - Python3.8
